@@ -1,0 +1,9 @@
+{
+  "appId": "com.mrdsolution.amspro",
+  "appName": "AMS Pro",
+  "webDir": "www",
+  "server": {
+    "url": "https://ams.mrdsolution.my.id/login",
+    "cleartext": false
+  }
+}
